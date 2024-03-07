@@ -7,6 +7,7 @@ import Bird from "../models/Bird";
 import Plane from "../models/Plane";
 import { useState } from "react";
 
+// 아래에 추가할 예정
 {/* <div className="absolute top-28 left-0 right-0 z-10 flex items-center justify-center">
   POPUP
 </div> */}
